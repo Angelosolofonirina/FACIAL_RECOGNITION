@@ -1,19 +1,7 @@
 .App {
   text-align: center;
 }
-.import {
-  width: auto;
-  align-items: center;
-}
-.input{
-  background-color: rgb(228, 242, 25);
-  margin-right: auto;
-  margin-left: 400px;
-  width: 500px;
-}
-.input::hover{
-  background-color: aliceblue;
-}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
